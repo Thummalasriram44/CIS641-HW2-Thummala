@@ -8,7 +8,7 @@
 * [team project](https://github.com/maheswarreddy01/GVSU-CIS641-Amigos)
 
 ## Technical Background
-    - I have solid knowledge in pythin
+    - I have solid knowledge in python.
 
 ## Team project github.io Url.
 
