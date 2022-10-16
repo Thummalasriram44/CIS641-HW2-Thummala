@@ -10,5 +10,11 @@
 ## Technical Background
     - I have solid knowledge in pythin
 
+## Team project github.io Url.
 
-![Hi](https://s3.amazonaws.com/discourseproduction/original/2X/0/068285144b4769d1dec48d32d10aeca4b4fc634b.jpeg)
+* [Team Project](https://maheswarreddy01.github.io/GVSU-CIS641-Amigos/)
+
+## Term Project
+* The project's goal is to send users a greeting card depending on their events. Giftisp is an online greeting card platform that enables customers to choose from a variety of templates.
+
+* [https://github.com/maheswarreddy01/GVSU-CIS641-Amigos](https://github.com/maheswarreddy01/GVSU-CIS641-Amigos)
